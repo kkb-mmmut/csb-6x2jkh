@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,cACE,iBAAkB,CAClB,SACF,CACA,aACE,gBAAiB,CACjB,UACF,CACA,iBACE,YACF","file":"main.c8ad36be.chunk.css","sourcesContent":[".myproject h1 {\r\n  text-align: center;\r\n  color: red;\r\n}\r\n.myproject p {\r\n  text-indent: 10px;\r\n  color: blue;\r\n}\r\n.myproject ul li {\r\n  color: purple;\r\n}\r\n"]}
